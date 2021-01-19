@@ -1,5 +1,8 @@
 # Sentiment-Analysis-on-Movie-Reviews
 
+## Deployment on AWS:
+http://ec2-18-222-1-146.us-east-2.compute.amazonaws.com:8080/index
+
 ## Data Information
 Get the data from kaggle https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews
 
