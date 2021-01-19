@@ -1,6 +1,6 @@
 # Sentiment-Analysis-on-Movie-Reviews
 
-## Deployment on AWS:
+## Working Demo:
 http://ec2-18-222-1-146.us-east-2.compute.amazonaws.com:8080/index
 
 ## Data Information
