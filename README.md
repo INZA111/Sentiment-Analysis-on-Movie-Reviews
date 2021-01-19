@@ -55,7 +55,7 @@ Logistic Regression worked very well.
 
 ### Model Deployment:
 I am going to deploy the model using Flask and AWS EC2 instance.
-Link: ec2-18-222-1-146.us-east-2.compute.amazonaws.com:8080/index
+Link: http://ec2-18-222-1-146.us-east-2.compute.amazonaws.com:8080/index
 
 ### Future Work
 The Deep Learning algos like BERT can also be implemented.
