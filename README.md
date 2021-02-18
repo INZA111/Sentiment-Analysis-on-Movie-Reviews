@@ -3,6 +3,9 @@
 ## Working Demo:
 http://ec2-18-222-1-146.us-east-2.compute.amazonaws.com:8080/index
 
+## Blog:
+https://khaninza.medium.com/sentiment-analysis-on-movie-reviews-a499235f2491
+
 ## Data Information
 Get the data from kaggle https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews
 
